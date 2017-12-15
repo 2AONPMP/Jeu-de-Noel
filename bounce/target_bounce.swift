@@ -3,7 +3,7 @@
 //  
 //
 //  Created by Alessandra Nishikawa on 17-12-13.
-//
+//  Adaptation de classe Bounce de Mario pour l'inclusion de cibles, la ponctuation, et la vue por utiliser la fonction touchesMoved
 //--------------------------------------------------
 import UIKit
 import Foundation
